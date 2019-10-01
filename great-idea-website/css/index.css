@@ -173,7 +173,7 @@ header nav {
 
 header nav a {
   margin: 25px;
-  color: grey;
+  color: #c6c6c6;
   text-decoration: none;
 }
 
@@ -197,7 +197,7 @@ header .logo {
   /* border: 2px solid purple; */
 }
 .btn {
-  border: 2px black solid;
+  border: 2 #666666 solid;
   position: relative;
   left: 165px;
   padding: 2px, 10px;
